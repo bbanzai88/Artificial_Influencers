@@ -1,2 +1,2 @@
 # Artificial_Influencers
-Code for potential book
+Code and text for potential book
